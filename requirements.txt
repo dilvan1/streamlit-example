@@ -1,4 +1,5 @@
 altair
 pandas
 streamlit
+libgl1-mesa-glx
 opencv-python
